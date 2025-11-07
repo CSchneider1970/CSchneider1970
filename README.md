@@ -1,11 +1,15 @@
-## Hi there 👋
+## Hi there 👋, I'm Christoph
+I'm Christoph, coding and building projects **from the middle of Germany** 🇩🇪.  
+Passionate about Python, Django, and electronics prototyping — always curious to learn and share.  
+- 🔭 I’m currently working on Ben Eater's [6502 project](https://eater.net/6502)
 
+### Languages and Tools I Use
 <!--
 **CSchneider1970/CSchneider1970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
+- 🔭 I’m currently working on Ben Eater's 6502 Project
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
