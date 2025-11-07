@@ -1,9 +1,14 @@
 ## Hi there 👋, I'm Christoph
-I'm Christoph, coding and building projects **from the middle of Germany** 🇩🇪.  
+I'm Python student at [DCI](https://digitalcareerinstitute.org/), coding and building projects **from the middle of Germany** 🇩🇪.  
 Passionate about Python, Django, and electronics prototyping — always curious to learn and share.  
-- 🔭 I’m currently working on Ben Eater's [6502 project](https://eater.net/6502)
+- 🔭 I'm currently working on Ben Eater's [6502 project](https://eater.net/6502)
+- 🌱 and when I find the time, how to use trees in my [Huffman Coding Project](https://github.com/CSchneider1970/huffman_coding).
 
 ### Languages and Tools I Use
+- ⚙️ ACME Assembler
+- <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20"/> Python  
+- <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="20"/> Visual Studio Code  
+
 <!--
 **CSchneider1970/CSchneider1970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
