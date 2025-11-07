@@ -8,7 +8,7 @@ Passionate about Python, Django, and electronics prototyping — always curious 
 - ⚙️ ACME Assembler
 - <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" width="20"/> Python  
 - <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Visual_Studio_Code_1.35_icon.svg" width="20"/> Visual Studio Code  
-
+- 🧰 XGecu TL866II Plus
 <!--
 **CSchneider1970/CSchneider1970** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
