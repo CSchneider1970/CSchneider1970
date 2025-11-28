@@ -2,7 +2,7 @@
 I'm Python student at [DCI](https://digitalcareerinstitute.org/), coding and building projects **from the middle of Germany** 🇩🇪.  
 Passionate about Python, Django, and electronics prototyping — always curious to learn and share.  
 - 🔭 I'm currently working on Ben Eater's [6502 project](https://eater.net/6502)
-- 🌱 and when I find the time, how to use trees in my [Huffman coding project](https://github.com/CSchneider1970/huffman_coding).
+- 🌱 and when I find the time, how to use trees in my [Huffman coding project](https://github.com/CSchneider1970/Huffman-Coding).
 
 ### Languages and Tools I Use
 - ⚙️ ACME Assembler
